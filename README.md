@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mercien
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning ReactJS and his family 😃
-- 💞️ I’m looking to learn more about crypto project
+- 👀 I’m a web and software developer
+- 😃 I am an effecient WordPress Designer and Developer
+- 🌱 I’m currently practicing ReactJS and his family for custom projects 
+- 💞️ I’m also a Web3 and Crypto enthusiast, and I'm learning more about crypto project
 - 📫 How to reach me via mercienloaded@gmail.com
 
 <!---
